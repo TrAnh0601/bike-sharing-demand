@@ -44,5 +44,6 @@ def main():
     submission['count'] = submission['count'].apply(lambda x: max(0, x))
     submission.to_csv(OUTPUT_PATH, index=False)
 
+
 if __name__ == "__main__":
     main()
