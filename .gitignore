@@ -1,0 +1,6 @@
+data/
+plots/
+submissions/*.csv
+__pycache__/
+venv/
+.env
