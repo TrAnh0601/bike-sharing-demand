@@ -4,3 +4,4 @@ submissions/*.csv
 __pycache__/
 venv/
 .env
+.idea
